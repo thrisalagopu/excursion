@@ -19,8 +19,9 @@ h2{
 }
 p{
   color: gray;
-  font-size: 21px;
+
 }
 .footer p{
   text-align: right;
+  font-size: 21px;
 }
