@@ -24,3 +24,6 @@ p{
 .content p{
   font-size: 21px;
 }
+.footer p{
+  text-align: right;
+}
